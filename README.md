@@ -2,7 +2,7 @@
 
 Generate big Passwords which are impossible to Brute force
 
-# Usage: python Passwordgenerator1.py or pyhton Passwordgenerator.py 
+# Usage: python Passwordgenerator1.py or python Passwordgenerator.py 
 
 # Instructions
 
